@@ -1,0 +1,42 @@
+
+#about>h1{
+    font-family: "OpenSans-Light";
+    margin-bottom: 2em;
+    color: whitesmoke;
+    font-weight: bold;
+}
+#about>div>p{
+  
+  font-size: 17px;
+  font-family: 'Times New Roman', Times, serif;
+  color: whitesmoke;
+  font-style: italic;
+  
+}
+#about>.col-md-5, #about>.col-lg-5{
+    margin-top: 4rem;
+    margin-bottom: 6rem;
+}
+
+.row{
+    margin-top: 20px;
+}
+.row img{
+    margin-left: 50px;
+}
+.person {
+    margin-bottom: 25px;
+    width: 80%;
+    height: auto;
+    
+  }
+.text-center{
+    color: whitesmoke;
+}
+h2{
+    color: whitesmoke;
+}
+strong{
+    font-size: 20px;
+    margin-top: 20px;
+}

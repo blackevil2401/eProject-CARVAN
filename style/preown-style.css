@@ -1,0 +1,135 @@
+
+.cui-page-section {
+    
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+.index-summary-section {
+    min-height: 52.5rem;
+    
+}
+.index-summary-title {
+    text-align: left;
+}
+
+.cui-heading-3 {
+    color: tomato;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.1;
+}
+.summary-text-container {
+    margin: 1.5rem auto 0;
+}
+p.summary-info {
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    margin-bottom: 2rem;
+    font-size: 1.8rem;
+    line-height: 1.25;
+    text-align: justify;
+}
+strong {
+    font-weight: 600;
+    color: darkgoldenrod;
+}
+div.summary-content-container {
+    line-height: 1.25;
+    width: 100%;
+}
+.cube-ad {
+    
+    margin: 0 auto;
+}
+.index-articles-title {
+    margin-top: 3.2rem;
+}
+.article-content {
+    margin-top: 14px;
+}
+
+.list-article__item {
+    width: 100%;
+}
+.list-article__item>div {
+    padding-right: 1em;
+    padding-bottom: 1em;
+}
+img {
+    max-width: 100%;
+}
+.list-article__item .list-article__title-container h6{
+    
+    color: salmon;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.25;
+}
+
+.list-article__item .excerpt {
+    color: white;
+    margin-top: 1.2rem;
+    font-size: 14px;
+    white-space: normal;
+}
+.list-article__item .excerpt .article-read-more {
+    white-space: nowrap;
+}
+.list-article__item a {
+    color: #098ae4;
+    text-decoration: none;
+    
+}
+.article-title {
+    text-align: left;
+    color: #000;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.1;
+}
+
+#myModal-article .body-image {
+    width: 100%;
+    max-width: 1170px;
+    margin-bottom: 1.6rem;
+    margin-top: 1.6rem;
+    min-height: 180px;
+}
+#myModal-article .mainBody p {
+    margin-bottom: 16px;
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+}
+#myModal-article .mainBody h2 {
+    color: brown;
+}
+
+@media (min-width: 504px){
+
+.list-article__item .excerpt b {
+    color: #098ae4;
+}
+.list-article__item .excerpt b:hover {
+    color: #71b2e0;
+}
+.list-article__item .excerpt {
+    font-size: 16px;
+    
+}
+}
+@media (max-width: 504px){
+.list-article__item {
+    margin: 6px 0;
+    padding: 0;
+}
+.list-article__item>a {
+    display: inline-block;
+}
+.list-article__item>a .cropped-thumb {
+    float: left;
+}
+.list-article__item .excerpt {
+    display: none;
+}
+}

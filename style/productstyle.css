@@ -1,0 +1,71 @@
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+#menu2{
+   
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 1;
+    width: 136%;
+    padding-left: 12em;
+    background-color: black;
+  
+}
+#menu2>.navbar-default
+{
+    width: 100%;
+    background-color: black;
+    margin-bottom: 1em;
+    
+}
+
+#menu2>.navbar-default a
+{
+    background-color: black;
+	font-size: 2rem;
+	text-decoration: none;
+    color: #F97906;
+    text-align: center;
+    padding-left: 2em;
+    padding-right: 2em;
+    border-bottom: #F97906 solid thin;
+    
+}
+
+#menu2>.navbar-default a:hover
+{
+    color:whitesmoke;
+    
+    transition: 1s;
+    border-bottom: white solid thin;
+}
+#number-1{
+    margin-top: 3em;
+    color: cornsilk;
+}
+#number-2 img{
+    width: 98%;
+    margin-top: 5px;
+}
+#number-3{
+    color: cornsilk;
+}
+#number-4{
+    color: cornsilk;
+}
+#number-5{
+    color: cornsilk;
+}
+
+@media screen and (max-width:1024px){
+    #menu2{
+        display: none;
+    }
+}
+
+
+
+
+
