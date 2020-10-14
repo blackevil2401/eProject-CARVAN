@@ -2,7 +2,7 @@
 # T1.2007.E1-eProject-Group_3
 Batch no.: T1.2007.E1
 
-CENTER NAME: HKT-HCMC-3-FPT
+CENTER NAME: ACE-HCMC-2-FPT
 
 Project title: HKT-AUTO website
 
