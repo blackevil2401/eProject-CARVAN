@@ -1536,7 +1536,7 @@
 		<div class="rightside">
 			<img src="image/newsletter1.jpg" alt="newsletter">
 			<input type="text" class="form-control" id="subemail" placeholder="EMAIL">
-			<button>SUBSCRIBE</button>
+			<button onclick="sub()">SUBSCRIBE</button>
 		</div>
 	</div>
 	<!-- ______________________________________________________Bottom Menu ______________________________-->
@@ -1642,6 +1642,18 @@
 	<script src="source/js/wow.min.js"></script>
 	<script>
 		new WOW().init();
+		function sub() {
+			
+			var email = document.getElementById('subemail').value;
+			var reemail = /^[a-z][a-z0-9_\.]{2,32}@[a-z0-9]{2,}(\.[a-z0-9]{2,4}){1,2}$/;
+			if (reemail.test(email)) {
+
+			} else {
+				alert("Format of mail is wrong,please try again!");
+				return;
+			}
+			alert("We received your email !");
+		}
 	</script>
 </body>
 
