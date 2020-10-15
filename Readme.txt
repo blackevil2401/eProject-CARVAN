@@ -22,7 +22,7 @@ github report link: https://github.com/blackevil2401/project
 
 ============================
 
-eProject published at https://github.com/blackevil2401/project.git
+eProject published at https://blackevil2401.github.io/project/
 
 ============================
 
