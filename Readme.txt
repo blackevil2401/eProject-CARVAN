@@ -18,7 +18,7 @@ Project title: HKT-AUTO website
                  
 ============================
 
-github report link: https://github.com/blackevil2401/project
+github report link: https://github.com/blackevil2401/project/tree/main/document
 
 ============================
 
