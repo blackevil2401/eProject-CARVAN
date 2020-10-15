@@ -6,7 +6,7 @@ CENTER NAME: ACE-HCMC-2-FPT
 
 Project title: HKT-AUTO website
 
-========> Group 3 <=========
+========> Group 2 <=========
 
 3 collaborators: 
 
