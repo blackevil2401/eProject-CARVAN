@@ -22,7 +22,7 @@ github report link: https://github.com/blackevil2401/eProject-CARVAN/tree/main/d
 
 ============================
 
-eProject published at https://blackevil2401.github.io/project/
+eProject published at https://blackevil2401.github.io/eProject-CARVAN/
 
 ============================
 
